@@ -1,0 +1,9 @@
+insert value catatory (description) values("America");
+insert value catatory (description) values("Indian");
+insert value catatory (description) values("Maxican");
+insert value catatory (description) values("Asian");
+insert value UoM      (description) values("Teaspoon");
+insert value UoM      (description) values("Tablespoon");
+insert value UoM      (description) values("Cup");
+insert value UoM      (description) values("Pinch");
+insert value UoM      (description) values("Ounce");
