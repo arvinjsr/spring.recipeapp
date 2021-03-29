@@ -1,4 +1,4 @@
-package com.arvin.spring.recipeapp.spring.Model;
+package com.arvin.spring.recipapp.spring.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

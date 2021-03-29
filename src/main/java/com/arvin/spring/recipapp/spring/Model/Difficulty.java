@@ -1,4 +1,4 @@
-package com.arvin.spring.recipeapp.spring.Model;
+package com.arvin.spring.recipapp.spring.Model;
 
 public enum Difficulty {
 EASY, MODERATE , HARD

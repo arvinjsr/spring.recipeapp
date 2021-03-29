@@ -1,4 +1,4 @@
-package com.arvin.spring.recipeapp.spring.Model;
+package com.arvin.spring.recipapp.spring.Model;
 
 import java.math.BigDecimal;
 
